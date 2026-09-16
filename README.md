@@ -26,21 +26,16 @@ Worked as part of an Agile team on an industry-based software project, contribut
 
 Developed a database-driven web application as part of my university studies.
 
-**Repository:** Coming soon
-
-### 💻 Full-Stack Project — Planned
-
-A new full-stack application focused on strengthening my practical experience with frontend development, backend APIs, and database integration.
-
-**Status:** Planned
+**Repository:** [gamescape-full-stack-web-app] (https://github.com/Jie-0511/gamescape-full-stack-web-app.git)
 
 ## 🌱 Currently Learning
 
-I'm currently strengthening my skills in:
+I'm currently continuing to strengthen my skills in:
 
-- Full-stack web development
+- Full-stack application development
 - Backend development and REST APIs
-- Database design
+- Database design and integration
+- Python and JavaScript development
 - Git and collaborative software development
 
 ## 📫 Contact
