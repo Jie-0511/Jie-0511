@@ -20,8 +20,7 @@ I'm particularly interested in **software development, web development, and prac
 
 Worked as part of an Agile team on an industry-based software project, contributing to the development and implementation of technical solutions.
 
-**Repository:** Coming soon
-
+**Repository:** https://github.com/Jie-0511/influxdb-no-code-query-builder.git
 ### 🌐 Web Development Project
 
 Developed a database-driven web application as part of my university studies.
